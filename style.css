@@ -38,7 +38,7 @@ a{
 .instagram-phone img{
 	position: absolute;
 	width: 650px;
-
+	margin-top: -2%;
 	margin-left: 12%;
 }
 .download-apple{
@@ -48,8 +48,8 @@ a{
 	border-radius: 7px;
 	background-size: cover;
 	background-image: url("img/apple-button.png");
-	margin-left: 780px;
-	margin-top: 600px;
+	margin-left: 720px;
+	margin-top: 520px;
 }
 .download-android{
 	position: absolute;
@@ -58,8 +58,8 @@ a{
 	border-radius: 7px;
 	background-size: cover;
 	background-image: url("img/googleplay-button.png");
-	margin-left: 910px;
-	margin-top: 600px;
+	margin-left: 850px;
+	margin-top: 520px;
 }
 #perfil{
 	width: 70px;
@@ -82,11 +82,11 @@ a{
 
 @media (max-width: 1125px){
 	.instagram-continue{
-		margin-left: 600px;
+		margin-left: 55%;
 	}
 	.instagram-box{
-		margin-left: 600px;
-		margin-top: 600px;
+		margin-left: 55%;
+		margin-top: 32%;
 	}
 	#app{
 		margin-left: 62%;
